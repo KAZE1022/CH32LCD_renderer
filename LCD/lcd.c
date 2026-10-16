@@ -172,7 +172,7 @@ void LCD_Init(void)
     Delay_Ms(100);
 
     /* 8) 显示方向 */
-    LCD_Direction(LCD_DEFAULT_DIR);
+    LCD_Direction(2);
 
     /* 9) 清屏 + 点亮背光 */
     LCD_Clear(LCD_BLACK);

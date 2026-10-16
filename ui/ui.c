@@ -5,6 +5,9 @@ uint16_t fb[W * H];
 
 static uint16_t line_swap[W];   /* 新增一行：字节交换用的小缓冲 */
 
+
+
+
 void flush(void)
 {
     LCD_SetWindow(0, 0, W - 1, H - 1);

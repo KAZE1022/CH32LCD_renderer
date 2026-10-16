@@ -1,0 +1,60 @@
+# ===== 编译输出 =====
+build
+out
+bin
+obj
+Debug
+Release
+x64
+x86
+.o
+.obj
+.a
+.lib
+.so
+.dll
+.exe
+.pdb
+.ilk
+.exp
+.map
+.elf
+.hex
+.bin
+.axf
+.lst
+
+# ===== CMake =====
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+.cmake
+
+# ===== IDE  编辑器 =====
+.vs
+.vscode
+.idea
+.user
+.suo
+.sln.docstates
+.uvprojx
+.uvoptx
+.wvproj
+
+# ===== 依赖  包管理 =====
+vcpkg_installed
+conan
+node_modules
+packages
+
+# ===== 日志  临时文件 =====
+.log
+.tmp
+.bak
+.swp
+~
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
